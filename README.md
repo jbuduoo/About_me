@@ -1,11 +1,13 @@
 # About_me
 
-田安得 (Andrew Tien)
-Birthday : 06/27/1992
-Education : 國立高雄大學-資訊管理學系
-Location : 高雄市 (Koahsiung City)
-E-Mail : rockitchen80@gmail.com
-Mobile : 0931-289005
+- 戴勝台 (Jacky Dai)
+- Birthday : 04/12/1981
+- Education : 國立屏東科技大學-資訊管理學系
+- Location : 新北市
+- E-Mail : jbuduoo@gmail.com
+- Mobile : 0982-279262
+
+
 技能
 HTML/CSS
 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
