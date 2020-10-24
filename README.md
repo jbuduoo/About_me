@@ -9,9 +9,46 @@
 
 
 # 自傳：
-## 一、文彬專利權:
 
-## 二、住通科技:
+## SUMMARY OF QUALIFICATIONS
+	2年程式開發經驗，3年的需求開發經驗。
+	熟悉 Java 相關技術及Spring框架相關知識。
+	了解Angular及TypeScript 程式語言。
+
+# 工作經歷:
+
+## 德義資訊股份有限公司/軟體工程師
+### 凌群科技-家x福官網翻新
+使用技術：TypeScript、JavaScript、React、HTML、CSS、CSS3、cypress、java、MS SQL 
+使用工具：Vscode、Eclipse、Git、Batch Script
+系統及工作內容概述：
+1.Date Mygration
+2.官網SRS撰寫。
+3.供應商系街SRS及WireFrame繪製。
+
+
+### 土地銀行-交易平台翻新
+使用技術：TypeScript、JavaScript、Angular、HTML、CSS、CSS3
+使用工具：Vscode、Eclipse、Git、Batch Script
+系統及工作內容概述：
+1.	將舊交易1516隻Flex程式轉譯為TypeScript程式。良率90%，約可幫每支程式約可節省2小時的撰寫時間。
+2.	將舊mxml轉譯後，再次轉譯，讓每支交易可多省5分鐘的撰寫時間。
+3.	撰寫轉檔對照表。
+
+## 文彬專利權/軟體工程師
+資訊網站平台開發及維護
+工作內容：PG
+使用技術：使用HTML、CSS3、JAVA、MS SQL、HTML、JavaScript、Windows
+使用工具：Eclipse、DreamMarker
+系統及工作內容概述：將文彬商標系統，由VB所撰寫改為使用DreamMarker這框架重新撰寫。
+
+## 住通科技/系統分析師
+住通搜尋系統開發設計、銷售、需求開發
+工作內容：開規格、網站互動介面設計、與使用者討論需求、並讓使用者體驗、房仲大數據分析
+使用技術：.NET MVC
+貢獻： 
+1.目前在市面上有在銷售
+2.這系統可以讓房仲銷售人員每日的工作減少二個小時
 1.創造住通搜尋系統，縮短房仲人員工作的時間，可搜尋出同行所有的物件，及更新日期。
 2.創造比對地址功能，同行在賣的物件，比對出地址。
 3.創造謄本功能，在賣的地址，直接調謄本。
