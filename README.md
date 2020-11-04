@@ -25,6 +25,8 @@
 1.Date Mygration
 2.官網SRS撰寫。
 3.供應商系街SRS及WireFrame繪製。
+4.DataMigration，從Ms SQL 轉成XML 再匯入SFCC。
+5.Apigee API介接。
 
 
 ### 土地銀行-交易平台翻新
