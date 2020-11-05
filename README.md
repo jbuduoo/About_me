@@ -43,7 +43,7 @@
 使用技術：使用HTML、CSS3、JAVA、MS SQL、HTML、JavaScript、Windows
 使用工具：Eclipse、DreamMarker
 系統及工作內容概述：將文彬商標系統，由VB所撰寫改為使用DreamMarker這框架重新撰寫。
-https://github.com/jboooo/DreamMaker/blob/master/README.md
+github傳送門:https://github.com/jboooo/DreamMaker
 
 ## 住通科技/系統分析師
 住通搜尋系統開發設計、銷售、需求開發
