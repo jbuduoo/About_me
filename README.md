@@ -37,13 +37,13 @@
 2.	將舊mxml轉譯後，再次轉譯，讓每支交易可多省5分鐘的撰寫時間。
 3.	撰寫轉檔對照表。
 
-## 文彬專利權/軟體工程師
-資訊網站平台開發及維護
-工作內容：PG
-使用技術：使用HTML、CSS3、JAVA、MS SQL、HTML、JavaScript、Windows
-使用工具：Eclipse、DreamMarker
+## 文彬專利權/軟體工程師<br/>
+資訊網站平台開發及維護<br/>
+工作內容：PG<br/>
+使用技術：使用HTML、CSS3、JAVA、MS SQL、HTML、JavaScript、Windows<br/>
+使用工具：Eclipse、DreamMarker<br/>
 系統及工作內容概述：將文彬商標系統，由VB所撰寫改為使用DreamMarker這框架重新撰寫。<br/>
-github傳送門:https://github.com/jboooo/DreamMaker
+github傳送門:https://github.com/jboooo/DreamMaker<br/>
 
 ## 住通科技/系統分析師
 住通搜尋系統開發設計、銷售、需求開發
