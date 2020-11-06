@@ -36,6 +36,7 @@
 1.	將舊交易1516隻Flex程式轉譯為TypeScript程式。良率90%，約可幫每支程式約可節省2小時的撰寫時間。
 2.	將舊mxml轉譯後，再次轉譯，讓每支交易可多省5分鐘的撰寫時間。
 3.	撰寫轉檔對照表。
+Code Generation github :https://hackmd.io/@Y00YB1ZGRJaUT9hlzSidIw/Bks_6zzKP
 
 ## 文彬專利權/軟體工程師<br/>
 資訊網站平台開發及維護<br/>
