@@ -19,3 +19,17 @@ Alan116605
  - [商品列表](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Search-Show?cgid=2993)<br/>
  - [首頁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Demo-Start)<br/>
  - [結帳:](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Checkout-Begin)<br/>
+
+## TAPPAY 
+- [SPEC文件](https://docs.google.com/document/d/1d1eVEcMf_zGFgBWaLLvyJG_CSQ9nlNJM/edit#)<br/>
+- [SPEC - Payment (Tappay-JKOPAY)](https://docs.google.com/document/u/1/d/1cNFnZvCwGkVuWqmUZk1l7IAH8yOIHRh-/edit?usp=drive_web&ouid=101156036923245146445&rtpof=true)<br/>
+- [SPEC - Payment (Tappay-Line)](https://docs.google.com/document/u/1/d/1etN_bErRl4U2D4EfgWukQYCOsxm49j1a/edit?usp=drive_web&ouid=101156036923245146445&rtpof=true)<br/>
+- [各家銀行確認時間](https://docs.tappaysdk.com/tutorial/zh/reference.html#each-bank-capture-refund-time)<br/>
+- [測試報告](https://docs.google.com/document/d/1_kRSTgBzazsTHthJQ644M_8pOJx16n_FDZO5o6C2zJM/edit)<br/>
+- [postman位置](https://drive.google.com/drive/u/1/folders/1aTlP5mq6RJ258xSzWmDl6XMIrtlCaIiK)<br/>
+- [sa文件](https://hackmd.io/KMvMGkuUTKi5TJgp4l0Fag?view#SA---Payment-Tappay)<br/>
+- [Tappay流程圖](https://hackmd.io/R4GsOthbSSm97EsS9aJurQ)<br/>
+- [家樂福測試資料](https://hackmd.io/iXnNK78YQwevWiU7ZwRDHw)<br/>
+- [Tappay各項支付比較表，取得prime的方式](https://docs.google.com/document/d/1m3zYe0PW66nk88DDJ2XJuGMdx2_wjutX/edit) <br/>
+- [sumsung pay流程](https://hackmd.io/z1o1CB3GQoGiJCFEsbVqfQ?view)<br/>
+- [apple pay支付流程](https://hackmd.io/R1PB1pSOTmyfimXgkeXHpQ?view)<br/>
