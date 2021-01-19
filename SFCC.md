@@ -8,3 +8,4 @@
 ## [Controller的寫法](https://hackmd.io/sSkohUUsRd28hjV5JARzBg?view)<br/>
 ## [調整語系](https://hackmd.io/iDp6yxNqSj2gYBpkcF-j_w?view)<br/>
 ## [匯入功能](https://hackmd.io/PHxKaZgYTL6q-Ba6nu-w6g?view)<br/>
+## [頁面工具](https://hackmd.io/E75YDLMWTXiFiM0ZzLw9Qg?view)<br/>
