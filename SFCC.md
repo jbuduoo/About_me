@@ -12,6 +12,7 @@ Alan116605
 ## [調整語系](https://hackmd.io/iDp6yxNqSj2gYBpkcF-j_w?view)<br/>
 ## [匯入功能](https://hackmd.io/PHxKaZgYTL6q-Ba6nu-w6g?view)<br/>
 ## [頁面工具](https://hackmd.io/E75YDLMWTXiFiM0ZzLw9Qg?view)<br/>
+## [執行sfcc](https://hackmd.io/UQWDpeDGS9OjlrTZTaCMuA?view)<br/>
 ## 常用頁面
  - [商品頁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Product-Show?pid=1000000300106)<br/>
  - [商品頁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Product-Show?pid=1530001000112)<br/>
