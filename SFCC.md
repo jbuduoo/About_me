@@ -14,7 +14,7 @@ Alan116605
 ## [頁面工具](https://hackmd.io/E75YDLMWTXiFiM0ZzLw9Qg?view)<br/>
 ## [執行sfcc](https://hackmd.io/UQWDpeDGS9OjlrTZTaCMuA?view)<br/>
 ## 常用頁面
- - [商品頁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Product-Show?pid=1000000300106)<br/>
+ 需求登入才能進入結帳<br/>
  - [商品頁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Product-Show?pid=1530001000112)<br/>
  - [商品列表](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Search-Show?cgid=2993)<br/>
  - [首頁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Demo-Start)<br/>
