@@ -13,6 +13,8 @@ Alan116605<br/>
 ## [匯入功能](https://hackmd.io/PHxKaZgYTL6q-Ba6nu-w6g?view)<br/>
 ## [頁面工具](https://hackmd.io/E75YDLMWTXiFiM0ZzLw9Qg?view)<br/>
 ## [執行sfcc](https://hackmd.io/UQWDpeDGS9OjlrTZTaCMuA?view)<br/>
+## [Js JQuary筆記](https://hackmd.io/BOEHSOWwSoyUKmJoTOZwsg?view)<br/>
+
 ## 常用頁面
  需求登入才能進入結帳<br/>
  - [商品頁-統一布丁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Product-Show?pid=1530001000112)<br/>
