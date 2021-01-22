@@ -15,6 +15,7 @@ Alan116605<br/>
 ## [執行sfcc](https://hackmd.io/UQWDpeDGS9OjlrTZTaCMuA?view)<br/>
 ## [Js JQuary筆記](https://hackmd.io/BOEHSOWwSoyUKmJoTOZwsg?view)<br/>
 ## [git Sourcetree](https://hackmd.io/HiigsBDYSS6bAbRkpsY6Xg?view)<br/>
+## [sfcc Q&A](https://docs.google.com/spreadsheets/d/1cXnpYMhOqT7kHR0NYBvdPWIxH3qrqT0WVVVJnPHfS7M/edit#gid=1254768356)<br/>
 
 ## 常用頁面
  需求登入才能進入結帳<br/>
