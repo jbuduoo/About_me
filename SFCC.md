@@ -17,6 +17,10 @@ Alan116605<br/>
 ## [git Sourcetree](https://hackmd.io/HiigsBDYSS6bAbRkpsY6Xg?view)<br/>
 ## [sfcc Q&A](https://docs.google.com/spreadsheets/d/1cXnpYMhOqT7kHR0NYBvdPWIxH3qrqT0WVVVJnPHfS7M/edit#gid=1254768356)<br/>
 
+## 常見問題
+- [store id問題，先註解掉](https://hackmd.io/bYeQf4heR-GF52pqjqCYtw?view)<br/>
+
+
 ## 常用頁面
  需求登入才能進入結帳<br/>
  - [商品頁-統一布丁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Product-Show?pid=1530001000112)<br/>
