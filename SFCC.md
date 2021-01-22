@@ -27,7 +27,7 @@ Alan116605<br/>
  - [商品列表](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Search-Show?cgid=2993)<br/>
  - [首頁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Demo-Start)<br/>
  - [結帳:](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Checkout-Begin)<br/>
-
+ - [apple 測試頁](https://dev03-ap01-carrefour.demandware.net/on/demandware.store/Sites-Carrefour-Site/zh_TW/Cart-applepay)<
 ## TAPPAY 
 - [SPEC文件](https://docs.google.com/document/d/1d1eVEcMf_zGFgBWaLLvyJG_CSQ9nlNJM/edit#)<br/>
 - [SPEC - Payment (Tappay-JKOPAY)](https://docs.google.com/document/u/1/d/1cNFnZvCwGkVuWqmUZk1l7IAH8yOIHRh-/edit?usp=drive_web&ouid=101156036923245146445&rtpof=true)<br/>
