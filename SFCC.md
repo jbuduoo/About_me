@@ -2,7 +2,8 @@
 
 ## 帳號密碼<br/>
 帳號:Jacky_Dai@syscom.com.tw <br/>
-密碼:jbuduoo123 <br/>
+密碼:jbuduooABC123<br/>
+jbuduoo123 <br/>
 ## 登錄家樂福網站帳號密碼
 0911063771<br/>
 Alan116605<br/>
