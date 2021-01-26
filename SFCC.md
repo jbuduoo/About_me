@@ -18,6 +18,7 @@ Alan116605<br/>
 ## [git Sourcetree](https://hackmd.io/HiigsBDYSS6bAbRkpsY6Xg?view)<br/>
 ## [sfcc Q&A](https://docs.google.com/spreadsheets/d/1cXnpYMhOqT7kHR0NYBvdPWIxH3qrqT0WVVVJnPHfS7M/edit#gid=1254768356)<br/>
 ## [sfcc在上git前先執行](https://hackmd.io/_f6m_NJPSpyqYIXRnL9TsA?view)<br/>
+## [sfcc自訂義函數路徑](sfcc api自定義路徑函數)<
 ## 常見問題
 - [store id問題，先註解掉](https://hackmd.io/bYeQf4heR-GF52pqjqCYtw?view)<br/>
 - [自訂參數遺失](https://hackmd.io/fM5PSNPPTqiONoCM7Tr1RQ?view)<br/>
