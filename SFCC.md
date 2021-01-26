@@ -20,6 +20,7 @@ Alan116605<br/>
 ## 常見問題
 - [store id問題，先註解掉](https://hackmd.io/bYeQf4heR-GF52pqjqCYtw?view)<br/>
 - [自訂參數遺失](https://hackmd.io/fM5PSNPPTqiONoCM7Tr1RQ?view)<br/>
+- [安裝更新後](https://hackmd.io/t6uvm5nNTja7HT38Ne4tVg?view)<br/>
 
 ## 常用頁面
  需求登入才能進入結帳<br/>
