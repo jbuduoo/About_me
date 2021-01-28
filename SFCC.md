@@ -20,6 +20,7 @@ Alan116605<br/>
 ## [sfcc在上git前先執行](https://hackmd.io/_f6m_NJPSpyqYIXRnL9TsA?view)<br/>
 ## [sfcc自訂義函數路徑](https://hackmd.io/xWAV9to3Q8yCQvrpUW6nqg?view)<bf/>
 ## [在sfcc上看訂單資訊](https://hackmd.io/6_pBrna6SFeL935WKKTwOA?view)<br/>
+## [jquery產生的static在更新時就不更新了](https://hackmd.io/H9DSeDjKToChdg_k86UEUA?view)<br/>
 ## 常見問題
 - [store id問題，先註解掉](https://hackmd.io/bYeQf4heR-GF52pqjqCYtw?view)<br/>
 - [自訂參數遺失](https://hackmd.io/fM5PSNPPTqiONoCM7Tr1RQ?view)<br/>
