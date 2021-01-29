@@ -17,11 +17,20 @@ Alan116605<br/>
 - [Js JQuary筆記](https://hackmd.io/BOEHSOWwSoyUKmJoTOZwsg?view)<br/>
 - [git Sourcetree](https://hackmd.io/HiigsBDYSS6bAbRkpsY6Xg?view)<br/>
 - [sfcc Q&A](https://docs.google.com/spreadsheets/d/1cXnpYMhOqT7kHR0NYBvdPWIxH3qrqT0WVVVJnPHfS7M/edit#gid=1254768356)<br/>
-- [sfcc在上git前先執行](https://hackmd.io/_f6m_NJPSpyqYIXRnL9TsA?view)<br/>
 - [sfcc自訂義函數路徑](https://hackmd.io/xWAV9to3Q8yCQvrpUW6nqg?view)<bf/>
 - [在sfcc上看訂單資訊](https://hackmd.io/6_pBrna6SFeL935WKKTwOA?view)<br/>
 - [jquery產生的static在更新時就不更新了](https://hackmd.io/H9DSeDjKToChdg_k86UEUA?view)<br/>
-- [sfcc 確認是否有更新](https://hackmd.io/h8t1jrknSiGb5Kzaw94FmQ?view)<
+- [sfcc 確認是否有更新](https://hackmd.io/h8t1jrknSiGb5Kzaw94FmQ?view)<br/>
+#git前先做的工作
+- [git前要先做的做npm run lint:js](https://hackmd.io/8v01g1d0QdCGL5clGurRKw?view)<br/>
+- [sfcc在上git前先執行](https://hackmd.io/_f6m_NJPSpyqYIXRnL9TsA?view)<br/>
+- 先將做好的stash
+- pull最新的
+- 還原stash
+- 開新的Branch
+- 推code
+- 上github合併
+
 ## 常見問題
 - [store id問題，先註解掉](https://hackmd.io/bYeQf4heR-GF52pqjqCYtw?view)<br/>
 - [自訂參數遺失](https://hackmd.io/fM5PSNPPTqiONoCM7Tr1RQ?view)<br/>
