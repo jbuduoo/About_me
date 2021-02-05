@@ -23,6 +23,8 @@ Alan116605<br/>
 - [sfcc 確認是否有更新](https://hackmd.io/h8t1jrknSiGb5Kzaw94FmQ?view)<br/>
 - [isml傳遞到後端的方式](https://hackmd.io/h9k_Pe1kTeWdyixkQS3Hyg?view)<br/>
 - [進不去登入頁](https://hackmd.io/mQbdN0__RcqKV6myzQQaEA?view)<br/>
+- [20210205修改SandBox/service的資料](https://hackmd.io/IJy-lZ2IRMe0b-I4sAMgWg?view)<br/>
+
 ## git前先做的工作
 - [git前要先做的做npm run lint:js](https://hackmd.io/8v01g1d0QdCGL5clGurRKw?view)<br/>
 - [sfcc在上git前先執行](https://hackmd.io/_f6m_NJPSpyqYIXRnL9TsA?view)<br/>
