@@ -7,6 +7,13 @@ jbuduoo123 <br/>
 ## 登錄家樂福網站帳號密碼
 0911063771<br/>
 Alan116605<br/>
+
+- [公用相關設定](https://hackmd.io/@pAC7Wz35SAC8dkLPIz8kXA/BkrydSHgO/%2FZ8X6v8kuR-WSqhP8hld8pA)
+- [訂單訊息](https://hackmd.io/b-sUAS9aScKYzAUkRAD08w)<br/>
+- [訂單資料xsl](https://docs.google.com/spreadsheets/d/1Cg_rSbHYXrkDDQ_D5t8K0uYKevHodVB2D8iKrUGAOLA/edit#gid=0)<br/>
+- [apple pay相關工作](https://hackmd.io/HgYcRoTRSvWQP-F5QfGxVA)<br/>
+
+
 - [sfcc環境安裝](https://hackmd.io/0v4NfaE2QmejyQ2MnsDtxQ)<br/>
 - [sfcc環境安裝2](https://hackmd.io/DOs5FLI_Q_CaOLH65P4gRw)<br/>
 - [Controller的寫法](https://hackmd.io/sSkohUUsRd28hjV5JARzBg?view)<br/>
@@ -62,6 +69,4 @@ Alan116605<br/>
 - [apple pay支付流程](https://hackmd.io/R1PB1pSOTmyfimXgkeXHpQ?view)<br/>
 
 ## 工作常用，必須維護
-- [訂單訊息](https://hackmd.io/b-sUAS9aScKYzAUkRAD08w)<br/>
-- [訂單資料xsl](https://docs.google.com/spreadsheets/d/1Cg_rSbHYXrkDDQ_D5t8K0uYKevHodVB2D8iKrUGAOLA/edit#gid=0)<br/>
-- [apple pay相關工作](https://hackmd.io/HgYcRoTRSvWQP-F5QfGxVA)<br/>
+
