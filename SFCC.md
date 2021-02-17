@@ -60,3 +60,7 @@ Alan116605<br/>
 - [Tappay各項支付比較表，取得prime的方式](https://docs.google.com/document/d/1m3zYe0PW66nk88DDJ2XJuGMdx2_wjutX/edit) <br/>
 - [sumsung pay流程](https://hackmd.io/z1o1CB3GQoGiJCFEsbVqfQ?view)<br/>
 - [apple pay支付流程](https://hackmd.io/R1PB1pSOTmyfimXgkeXHpQ?view)<br/>
+
+## 工作常用，必須維護
+- [訂單訊息](https://hackmd.io/b-sUAS9aScKYzAUkRAD08w)<br/>
+- [訂單資料xsl](https://docs.google.com/spreadsheets/d/1Cg_rSbHYXrkDDQ_D5t8K0uYKevHodVB2D8iKrUGAOLA/edit#gid=0)<br/>
