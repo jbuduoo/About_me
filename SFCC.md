@@ -64,3 +64,4 @@ Alan116605<br/>
 ## 工作常用，必須維護
 - [訂單訊息](https://hackmd.io/b-sUAS9aScKYzAUkRAD08w)<br/>
 - [訂單資料xsl](https://docs.google.com/spreadsheets/d/1Cg_rSbHYXrkDDQ_D5t8K0uYKevHodVB2D8iKrUGAOLA/edit#gid=0)<br/>
+- [apple pay相關工作](https://hackmd.io/HgYcRoTRSvWQP-F5QfGxVA)<br/>
