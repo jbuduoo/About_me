@@ -7,6 +7,7 @@ jbuduoo123 <br/>
 ## 登錄家樂福網站帳號密碼
 0911063771<br/>
 Alan116605<br/>
+- [訂單相關資料](https://docs.google.com/document/d/18KssbYgN9cuZvX5PgoWGma25t8gIdMxmCLDTHxcxa5E/edit#)<br>
 - [oms 訂單管理系統](https://c4-tw-ec-oms-mgt-dev-dgxii2xgpa-de.a.run.app/)<br>
 - [oms api文件](https://documenter.getpostman.com/view/475193/TW6urACg#db940f9c-e9d1-4c6c-ab21-f38be0631b81)<br>
 - [sfcc api共用文檔](https://hackmd.io/@pAC7Wz35SAC8dkLPIz8kXA/BkrydSHgO/https%3A%2F%2Fhackmd.io%2FPRHQgazIRnqeLhx4LUwiKw)<br/>
