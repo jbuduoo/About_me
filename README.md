@@ -5,7 +5,7 @@
 - Education : 國立屏東科技大學-資訊管理學系
 - Location : 新北市
 - E-Mail : jbuduoo@gmail.com
-- Mobile : 0982-279-262
+- Mobile : 0982-279-262####
 
 
 # 自傳：
